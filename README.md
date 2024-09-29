@@ -30,7 +30,11 @@ Divic Task.
 
 1. **Clone project**
 ```bash
+#clone the project
 $ git clone https://github.com/Owoeye1321/divic.git
+
+#open/move to the project directory.
+$ cd divic
 ```
 
 
