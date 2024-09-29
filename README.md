@@ -50,6 +50,10 @@ $ yarn install
 - Install postgreSql on your machine
 - Once the installation is complete
 - create a dotenv clone of .env.example and replace the DATABASE_URL username and password to your postgreSql credentials
+
+```bash
+$ cp .env.example .env
+```
 - The database runs on the 5432 port by default, if your postgreSql port is different, kindly change it to your database port
 - Once the set up is complete, the next step is to run migration, use the commmand below
 
