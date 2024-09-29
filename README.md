@@ -81,6 +81,6 @@ $ yarn run test:cov
 
 ## Resources
 
-Check out the Postman documentation for the GraphQl and API sample template 
+Check out the Postman documentation for the GraphQl and RESTFUL API sample template 
 
 - Visit the [API Documentation](https://documenter.getpostman.com/view/32105266/2sAXqzWxwg) to see the test samples and responses.
